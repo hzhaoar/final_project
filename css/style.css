@@ -329,7 +329,7 @@ nav {
     margin: 0 0 0 0;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    width: 80%;
+    width: 90%;
     box-sizing: border-box;
 }
 
@@ -1045,11 +1045,6 @@ main {
 
 .brief-intro.tomori-intro {
     border-left: 5px solid #77BBDD;
-}
-
-.member-link.tomori {
-    color: #77BBDD;
-    background-color: #f0f8ff;
 }
 
 .rana-card {
